@@ -1,8 +1,8 @@
 [
 {
-  "modid": "qq_integration",
-  "name": "QQ Integration",
-  "description": "QQ Integration",
+  "modid": "qq_integration-lib",
+  "name": "QQ Integration Lib",
+  "description": "QQ Integration Lib",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
